@@ -1,0 +1,7 @@
+{"partners": [
+  { "nome": "01", "image": "imgs/agriturismo-la-sapienza-partner.png", "link": "https://example.com/page1" },
+  { "nome": "02", "image": "imgs/al-botanico-partner.png", "link": "https://example.com/page2" },
+  { "nome": "03", "image": "imgs/al-botegon-partner.png", "link": "https://example.com/page3" },
+  { "nome": "04", "image": "imgs/alchimista-partner.png", "link": "https://example.com/page4" }
+]
+}
